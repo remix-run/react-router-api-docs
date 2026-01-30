@@ -41,22 +41,25 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Generate documentation
+        id: generate
         working-directory: react-router
         run: |
           pnpm run build
           pnpm run docs:typedoc
+
           if [ ! -d "public/dev" ]; then
             echo "Error: Documentation not generated"
             exit 1
           fi
+
+          echo "react_router_sha=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
 
       - name: Copy documentation
         run: |
           rm -rf react-router-api-docs/v7/*
           cp -r react-router/public/dev/* react-router-api-docs/v7/
 
-      - name: Check for documentation changes
-        id: check_changes
+      - name: Commit and push changes
         working-directory: react-router-api-docs
         run: |
           git add v7/
@@ -66,12 +69,18 @@ jobs:
             exit 0
           fi
 
-          echo "Changes detected:"
-          git status
+          # Exit if only sitemap.xml changed, which means it was only timestamp updates
+          if [ "$(git diff --name-only --cached | wc -l)" -eq 1 ]; then
+            if [ "$(git diff --name-only --cached)" = "v7/sitemap.xml" ]; then
+              echo "Only sitemap.xml changed (timestamps), skipping commit"
+              exit 0
+            fi
+          fi
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          REACT_ROUTER_SHA=$(git -C ../react-router rev-parse --short HEAD)
-          git commit -m "Update API documentation from SHA ${REACT_ROUTER_SHA}"
-          # git push
+          git commit -m "Updated API documentation from react-router SHA ${{ steps.generate.outputs.react_router_sha }}"
+          git push
+
+          echo "Pushed docs changes https://github.com/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)"
