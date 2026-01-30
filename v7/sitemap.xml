@@ -2,1426 +2,1426 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://api.reactrouter.com/dev/index.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/hierarchy.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_architect.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_architect.GetLoadContextFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_architect.RequestHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_architect.createArcTableSessionStorage.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_architect.createRequestHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_cloudflare.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/_react-router_cloudflare.createPagesFunctionHandlerParams.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_cloudflare.GetLoadContextFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_cloudflare.RequestHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_cloudflare.createPagesFunctionHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_cloudflare.createRequestHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_cloudflare.createWorkersKVSessionStorage.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_dev.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_dev.config.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_dev.config.BuildManifest.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_dev.config.Config.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_dev.config.Preset.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_dev.config.ServerBundlesFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_dev.routes.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/_react-router_dev.routes.RouteConfigEntry.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_dev.routes.RouteConfig.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_dev.routes.getAppDirectory.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_dev.routes.index.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_dev.routes.layout.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_dev.routes.prefix.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_dev.routes.relative.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_dev.routes.route.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_dev.vite.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/_react-router_dev.vite.reactRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_dev.vite.unstable_reactRouterRSC.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_dev.vite_cloudflare.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_dev.vite_cloudflare.cloudflareDevProxy.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_express.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_express.GetLoadContextFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_express.RequestHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_express.createRequestHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_fs-routes.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_fs-routes.flatRoutes.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_node.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/_react-router_node.RequestListenerOptions.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_node.createFileSessionStorage.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_node.createReadableStreamFromReadable.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_node.createRequestListener.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_node.readableStreamToString.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_node.writeAsyncIterableToWritable.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_node.writeReadableStreamToWritable.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_remix-routes-option-adapter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/_react-router_remix-routes-option-adapter.DefineRouteFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/_react-router_remix-routes-option-adapter.DefineRoutesFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/_react-router_remix-routes-option-adapter.remixRoutesOptionAdapter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/_react-router_serve.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/create-react-router.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/create-react-router.export_.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/react-router.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/react-router.dom.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.dom.HydratedRouterProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.dom.RouterProviderProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.dom.HydratedRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.dom.RouterProvider.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.dom.unstable_createCallServer.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.dom.unstable_getRSCStream.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.dom.unstable_RSCHydratedRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/enums/react-router.NavigationType.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/enums/react-router.UNSAFE_ServerMode.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/classes/react-router.RouterContextProvider.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/classes/react-router.UNSAFE_ErrorResponseImpl.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/classes/react-router.UNSAFE_RemixErrorBoundary.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.ActionFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.ActionFunctionArgs.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.AppLoadContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.AwaitProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.BrowserRouterProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.ClientOnErrorFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.Cookie.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.CookieParseOptions.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.CookieSerializeOptions.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.CookieSignatureOptions.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.DataRouteMatch.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.DataRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.DataStrategyFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.DataStrategyFunctionArgs.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.DataStrategyMatch.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.DataStrategyResult.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.DOMRouterOpts.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.EntryContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.FetcherFormProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.FetcherSubmitFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.FetcherSubmitOptions.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.FormProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.Future.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.GetScrollPositionFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.GetScrollRestorationKeyFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.HandleDataRequestFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.HandleDocumentRequestFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.HandleErrorFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.HashRouterProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.HeadersFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.HistoryRouterProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.IndexRouteObject.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.IndexRouteProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.LayoutRouteProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.LazyRouteFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.LinkProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.LinksFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.LinksProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.LoaderFunctionArgs.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.Location.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.MemoryRouterOpts.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.MemoryRouterProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.MetaArgs.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.MetaFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.NavigateFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.NavigateOptions.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.NavigateProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.Navigator.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.NavLinkProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.NonIndexRouteObject.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.OutletProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.PageLinkDescriptor.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.Path.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.PathMatch.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.PathPattern.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.PathRouteProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.Register.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.RouteMatch.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.RouterContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.RouterInit.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.RouterProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.RouterProviderProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.RouterState.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.RouterSubscriber.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.RoutesProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.RoutesTestStubProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.ServerBuild.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.ServerEntryModule.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.ServerRouterProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.Session.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.SessionData.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.SessionIdStorageStrategy.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.SessionStorage.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.ShouldRevalidateFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.ShouldRevalidateFunctionArgs.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.StaticHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.StaticHandlerContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.StaticRouterProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.StaticRouterProviderProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.SubmitFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.SubmitOptions.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.UIMatch.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.UNSAFE_AssetsManifest.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.UNSAFE_DataWithResponseInit.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.UNSAFE_RouteModules.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.unstable_RSCHydratedRouterProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/interfaces/react-router.unstable_RSCStaticRouterProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.Blocker.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.BlockerFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.ClientActionFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.ClientActionFunctionArgs.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.ClientLoaderFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.ClientLoaderFunctionArgs.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.CookieOptions.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.CreateRequestHandlerFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.DataRouteObject.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.DiscoverBehavior.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.ErrorResponse.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.Fetcher.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.FetcherWithComponents.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.FlashSessionData.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.FormEncType.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.FormMethod.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.HeadersArgs.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.HTMLFormMethod.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.HtmlLinkDescriptor.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.HydrationState.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.InitialEntry.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.IsCookieFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.IsSessionFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.LinkDescriptor.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.LoaderFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.MetaDescriptor.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.MiddlewareFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.Navigation.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.NavigationStates.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.NavLinkRenderProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.ParamKeyValuePair.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.ParamParseKey.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.Params.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.PatchRoutesOnNavigationFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.PatchRoutesOnNavigationFunctionArgs.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.PathParam.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.PrefetchBehavior.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.RedirectFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.RelativeRoutingType.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.RequestHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.RevalidationState.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.RouteObject.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.RouteProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.RouterFetchOptions.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.RouterNavigateOptions.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.ScriptsProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.ScrollRestorationProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.SetURLSearchParams.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.SubmitTarget.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.To.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.UNSAFE_MiddlewareEnabled.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_BrowserCreateFromReadableStreamFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_ClientInstrumentation.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_DecodeActionFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_DecodeFormStateFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_DecodeReplyFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_EncodeReplyFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_InstrumentationHandlerResult.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_InstrumentRequestHandlerFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_InstrumentRouteFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_InstrumentRouterFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_LoadServerActionFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_RSCManifestPayload.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_RSCMatch.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_RSCPayload.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_RSCRenderPayload.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_RSCRouteConfig.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_RSCRouteConfigEntry.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_RSCRouteManifest.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_RSCRouteMatch.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_SerializesTo.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_ServerInstrumentation.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.unstable_SSRCreateFromReadableStreamFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/types/react-router.URLSearchParamsInit.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.createRequestHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.createRoutesFromElements.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.createSession.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.Form.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.IDLE_BLOCKER.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.IDLE_FETCHER.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.IDLE_NAVIGATION.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.isCookie.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.isSession.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.Link.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.NavLink.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.redirect.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.redirectDocument.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.replace.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.UNSAFE_DataRouterContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.UNSAFE_DataRouterStateContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.UNSAFE_FetchersContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.UNSAFE_FrameworkContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.UNSAFE_hydrationRouteProperties.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.UNSAFE_LocationContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.UNSAFE_NavigationContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.UNSAFE_RouteContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.UNSAFE_SingleFetchRedirectSymbol.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.UNSAFE_ViewTransitionContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/variables/react-router.unstable_matchRSCServerRequest.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.Await.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.BrowserRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createBrowserRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createCookie.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createCookieSessionStorage.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createHashRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createMemoryRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createMemorySessionStorage.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createPath.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createRoutesFromChildren.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createRoutesStub.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createSearchParams.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createSessionStorage.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createStaticHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.createStaticRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.data.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.generatePath.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.HashRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.href.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.isRouteErrorResponse.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.Links.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.matchPath.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.matchRoutes.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.MemoryRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.Meta.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.Navigate.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.Outlet.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.parsePath.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.PrefetchPageLinks.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.renderMatches.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.resolvePath.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.Route.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.Router.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.RouterProvider.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.Routes.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.Scripts.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.ScrollRestoration.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.ServerRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.StaticRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.StaticRouterProvider.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_AwaitContextProvider.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_createBrowserHistory.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_createClientRoutes.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_createClientRoutesWithHMRRevalidationOptOut.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_createHashHistory.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_createMemoryHistory.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_createRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_decodeViaTurboStream.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_deserializeErrors.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_getHydrationData.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_getPatchRoutesOnNavigationFunction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_getTurboStreamSingleFetchDataStrategy.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_mapRouteProperties.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_RSCDefaultRootErrorBoundary.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_shouldHydrateRouteLoader.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_useFogOFWarDiscovery.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_useScrollRestoration.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_withComponentProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_WithComponentProps-1.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_withErrorBoundaryProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_WithErrorBoundaryProps-1.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_withHydrateFallbackProps.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.UNSAFE_WithHydrateFallbackProps-1.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.unstable_HistoryRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.unstable_routeRSCServerRequest.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.unstable_RSCStaticRouter.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.unstable_setDevServerHooks.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.unstable_usePrompt.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.unstable_useRoute.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useActionData.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useAsyncError.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useAsyncValue.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useBeforeUnload.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useBlocker.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useFetcher.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useFetchers.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useFormAction.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useHref.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useInRouterContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useLinkClickHandler.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useLoaderData.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useLocation.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useMatch.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useMatches.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useNavigate.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useNavigation.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useNavigationType.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useOutlet.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useOutletContext.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useParams.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useResolvedPath.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useRevalidator.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useRouteError.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useRouteLoaderData.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useRoutes.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useSearchParams.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useSubmit.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/functions/react-router.useViewTransitionState.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 	<url>
 		<loc>https://api.reactrouter.com/dev/modules/react-router-dom.html</loc>
-		<lastmod>2026-01-30T18:38:47.079Z</lastmod>
+		<lastmod>2026-01-30T21:11:33.162Z</lastmod>
 	</url>
 </urlset>
