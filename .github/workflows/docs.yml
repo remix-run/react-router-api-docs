@@ -1,0 +1,77 @@
+name: Update API Documentation
+
+on:
+  schedule:
+    # Run nightly at 2 AM UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  docs:
+    name: Update API Documentation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout react-router-api-docs
+        uses: actions/checkout@v4
+        with:
+          path: react-router-api-docs
+          ref: main
+
+      - name: Checkout react-router
+        uses: actions/checkout@v4
+        with:
+          repository: remix-run/react-router
+          path: react-router
+          ref: main
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: "pnpm"
+          cache-dependency-path: react-router/pnpm-lock.yaml
+
+      - name: Install dependencies
+        working-directory: react-router
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate documentation
+        working-directory: react-router
+        run: |
+          pnpm run build
+          pnpm run docs:typedoc
+          if [ ! -d "public/dev" ]; then
+            echo "Error: Documentation not generated"
+            exit 1
+          fi
+
+      - name: Copy documentation
+        run: |
+          rm -rf react-router-api-docs/v7/*
+          cp -r react-router/public/dev/* react-router-api-docs/v7/
+
+      - name: Check for documentation changes
+        id: check_changes
+        working-directory: react-router-api-docs
+        run: |
+          git add v7/
+
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes detected"
+            exit 0
+          fi
+
+          echo "Changes detected:"
+          git status
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          REACT_ROUTER_SHA=$(git -C ../react-router rev-parse --short HEAD)
+          git commit -m "Update API documentation from SHA ${REACT_ROUTER_SHA}"
+          # git push
