@@ -2,7 +2,8 @@ name: Update API Documentation
 
 on:
   schedule:
-    - cron: "0 7 * * *" # every day at 12AM PST
+    # Run nightly at 12 AM PST/1 AM PDT
+    - cron: "0 8 * * *"
   workflow_dispatch:
 
 jobs:
@@ -51,17 +52,27 @@ jobs:
             exit 1
           fi
 
+          react_router_version="$(node -p "require('./packages/react-router/package.json').version")"
+          react_router_major="$(echo "$react_router_version" | cut -d'.' -f1)"
+
+          if [ "$react_router_major" != "7" ] && [ "$react_router_major" != "8" ]; then
+            echo "Error: Unsupported react-router major version: $react_router_version"
+            exit 1
+          fi
+
           echo "react_router_sha=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
+          echo "docs_dir=v$react_router_major" >> $GITHUB_OUTPUT
 
       - name: Copy documentation
         run: |
-          rm -rf react-router-api-docs/v7/*
-          cp -r react-router/public/dev/* react-router-api-docs/v7/
+          mkdir -p "react-router-api-docs/${{ steps.generate.outputs.docs_dir }}"
+          rm -rf "react-router-api-docs/${{ steps.generate.outputs.docs_dir }}"/*
+          cp -r react-router/public/dev/* "react-router-api-docs/${{ steps.generate.outputs.docs_dir }}/"
 
       - name: Commit and push changes
         working-directory: react-router-api-docs
         run: |
-          git add v7/
+          git add "${{ steps.generate.outputs.docs_dir }}/"
 
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes detected"
@@ -70,7 +81,7 @@ jobs:
 
           # Exit if only sitemap.xml changed, which means it was only timestamp updates
           if [ "$(git diff --name-only --cached | wc -l)" -eq 1 ]; then
-            if [ "$(git diff --name-only --cached)" = "v7/sitemap.xml" ]; then
+            if [ "$(git diff --name-only --cached)" = "${{ steps.generate.outputs.docs_dir }}/sitemap.xml" ]; then
               echo "Only sitemap.xml changed (timestamps), skipping commit"
               exit 0
             fi
