@@ -12,25 +12,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout react-router-api-docs
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           path: react-router-api-docs
           ref: main
 
       - name: Checkout react-router
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: remix-run/react-router
           path: react-router
           ref: main
 
       - name: Setup pnpm
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@v6
         with:
           version: 10
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 24
           cache: "pnpm"
