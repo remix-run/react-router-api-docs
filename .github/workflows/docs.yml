@@ -17,7 +17,6 @@ jobs:
     uses: ./.github/workflows/docs-run.yml
     with:
       react-router-major: "8"
-      pnpm-version: "10"
 
   v7:
     name: Update API Documentation (v7)
@@ -25,4 +24,3 @@ jobs:
     uses: ./.github/workflows/docs-run.yml
     with:
       react-router-major: "7"
-      pnpm-version: "9"

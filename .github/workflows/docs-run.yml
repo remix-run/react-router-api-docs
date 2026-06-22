@@ -6,9 +6,6 @@ on:
       react-router-major:
         required: true
         type: string
-      pnpm-version:
-        required: true
-        type: string
 
 permissions:
   contents: write
@@ -63,7 +60,7 @@ jobs:
       - name: Setup pnpm
         uses: pnpm/action-setup@v6
         with:
-          version: ${{ inputs.pnpm-version }}
+          package_json_file: react-router/package.json
 
       - name: Setup Node.js
         uses: actions/setup-node@v6
