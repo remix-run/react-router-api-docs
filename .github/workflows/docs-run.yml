@@ -3,9 +3,6 @@ name: Run API Documentation Update
 on:
   workflow_call:
     inputs:
-      react-router-ref:
-        required: true
-        type: string
       react-router-major:
         required: true
         type: string
@@ -32,7 +29,27 @@ jobs:
         with:
           repository: remix-run/react-router
           path: react-router
-          ref: ${{ inputs.react-router-ref }}
+          fetch-depth: 0
+          fetch-tags: true
+
+      - name: Checkout latest stable react-router tag
+        id: react_router_tag
+        working-directory: react-router
+        run: |
+          latest_tag="$(
+            git tag -l "react-router@${{ inputs.react-router-major }}.*" --sort=-v:refname |
+              grep -E "^react-router@${{ inputs.react-router-major }}\.[0-9]+\.[0-9]+$" |
+              head -n 1
+          )"
+
+          if [ -z "$latest_tag" ]; then
+            echo "Error: No stable react-router v${{ inputs.react-router-major }} tag found"
+            exit 1
+          fi
+
+          git checkout "$latest_tag"
+
+          echo "tag=$latest_tag" >> $GITHUB_OUTPUT
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v6
@@ -70,7 +87,6 @@ jobs:
             exit 1
           fi
 
-          echo "react_router_sha=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
           echo "docs_dir=v$react_router_major" >> $GITHUB_OUTPUT
 
       - name: Copy documentation
@@ -100,7 +116,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git commit -m "Updated API documentation from react-router SHA ${{ steps.generate.outputs.react_router_sha }}"
+          git commit -m "Updated API documentation from ${{ steps.react_router_tag.outputs.tag }}"
           git push
 
           echo "Pushed docs changes https://github.com/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)"
