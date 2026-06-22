@@ -1,0 +1,116 @@
+name: Run API Documentation Update
+
+on:
+  workflow_call:
+    inputs:
+      react-router-major:
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  docs:
+    name: Update API Documentation (v${{ inputs.react-router-major }})
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout react-router-api-docs
+        uses: actions/checkout@v6
+        with:
+          path: react-router-api-docs
+          ref: main
+
+      - name: Checkout react-router
+        uses: actions/checkout@v6
+        with:
+          repository: remix-run/react-router
+          path: react-router
+          fetch-depth: 0
+          fetch-tags: true
+
+      - name: Checkout latest stable react-router tag
+        id: react_router_tag
+        working-directory: react-router
+        run: |
+          latest_tag="$(
+            git tag -l "react-router@${{ inputs.react-router-major }}.*" --sort=-v:refname |
+              grep -E "^react-router@${{ inputs.react-router-major }}\.[0-9]+\.[0-9]+$" |
+              head -n 1
+          )"
+
+          if [ -z "$latest_tag" ]; then
+            echo "Error: No stable react-router v${{ inputs.react-router-major }} tag found"
+            exit 1
+          fi
+
+          git checkout "$latest_tag"
+
+          react_router_version="$(node -p "require('./packages/react-router/package.json').version")"
+          react_router_major="$(echo "$react_router_version" | cut -d'.' -f1)"
+
+          if [ "$react_router_major" != "${{ inputs.react-router-major }}" ]; then
+            echo "Error: Expected react-router v${{ inputs.react-router-major }}, received: $react_router_version"
+            exit 1
+          fi
+
+          echo "tag=$latest_tag" >> $GITHUB_OUTPUT
+          echo "docs_dir=v$react_router_major" >> $GITHUB_OUTPUT
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          package_json_file: react-router/package.json
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: "pnpm"
+          cache-dependency-path: react-router/pnpm-lock.yaml
+
+      - name: Install dependencies
+        working-directory: react-router
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate documentation
+        id: generate
+        working-directory: react-router
+        run: |
+          pnpm run build
+          pnpm run docs:typedoc
+
+          if [ ! -d "public/dev" ]; then
+            echo "Error: Documentation not generated"
+            exit 1
+          fi
+
+          mkdir -p "../react-router-api-docs/${{ steps.react_router_tag.outputs.docs_dir }}"
+          rm -rf "../react-router-api-docs/${{ steps.react_router_tag.outputs.docs_dir }}"/*
+          cp -r public/dev/* "../react-router-api-docs/${{ steps.react_router_tag.outputs.docs_dir }}/"
+
+      - name: Commit and push changes
+        working-directory: react-router-api-docs
+        run: |
+          git add "${{ steps.react_router_tag.outputs.docs_dir }}/"
+
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes detected"
+            exit 0
+          fi
+
+          # Exit if only sitemap.xml changed, which means it was only timestamp updates
+          if [ "$(git diff --name-only --cached | wc -l)" -eq 1 ]; then
+            if [ "$(git diff --name-only --cached)" = "${{ steps.react_router_tag.outputs.docs_dir }}/sitemap.xml" ]; then
+              echo "Only sitemap.xml changed (timestamps), skipping commit"
+              exit 0
+            fi
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "Updated API documentation from ${{ steps.react_router_tag.outputs.tag }}"
+          git push
+
+          echo "Pushed docs changes https://github.com/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)"
