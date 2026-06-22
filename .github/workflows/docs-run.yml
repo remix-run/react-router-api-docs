@@ -88,11 +88,9 @@ jobs:
             exit 1
           fi
 
-      - name: Copy documentation
-        run: |
-          mkdir -p "react-router-api-docs/${{ steps.react_router_tag.outputs.docs_dir }}"
-          rm -rf "react-router-api-docs/${{ steps.react_router_tag.outputs.docs_dir }}"/*
-          cp -r react-router/public/dev/* "react-router-api-docs/${{ steps.react_router_tag.outputs.docs_dir }}/"
+          mkdir -p "../react-router-api-docs/${{ steps.react_router_tag.outputs.docs_dir }}"
+          rm -rf "../react-router-api-docs/${{ steps.react_router_tag.outputs.docs_dir }}"/*
+          cp -r public/dev/* "../react-router-api-docs/${{ steps.react_router_tag.outputs.docs_dir }}/"
 
       - name: Commit and push changes
         working-directory: react-router-api-docs
